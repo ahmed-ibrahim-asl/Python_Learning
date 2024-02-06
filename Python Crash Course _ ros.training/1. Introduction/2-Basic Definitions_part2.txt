@@ -16,3 +16,5 @@ access, highly customizable with extensible plugins.
 
 
 [IDE - Integrated Development Environment]
+Software package that combines a code editor with multiple of development tools, 
+it offers paid features to further enhance the programming experience.
