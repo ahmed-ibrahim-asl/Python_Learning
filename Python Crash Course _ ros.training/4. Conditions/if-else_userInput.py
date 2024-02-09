@@ -15,8 +15,8 @@
 # is, is not
 
 # [difference between == vs is]
-# == > checks the values
-# is > checks the location is same or not 
+# == - checks the values
+# is - checks the location is same or not 
 
 
 
