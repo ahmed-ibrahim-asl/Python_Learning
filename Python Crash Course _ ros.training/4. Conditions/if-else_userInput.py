@@ -3,7 +3,7 @@
 
 
 
-# [comparson operators]
+# [logical operators]
 #   ==, !=, >, <, <=, >=
 
 
@@ -11,8 +11,13 @@
 # and, not, or
 
 
-# [Identiy operators]
+# [Identiy operators] [checks more about location in memory]
 # is, is not
+
+# [difference between == vs is]
+# == > checks the values
+# is > checks the location is same or not 
+
 
 
 
@@ -28,3 +33,14 @@ print(type(userInput))
 
 # For examples of if/else/elif check the Practical Examples Folder/Directory😉
 # ⚠️ we going to utilize functions you are big boy now 🔥
+
+
+
+# short circuiting 
+# if condition1 or condition2:
+# if condition1 is True, condition2 wouldn't be performed
+
+
+# if condition1 and condition2
+# if condition1 is False, condition2 won't be performed'
+

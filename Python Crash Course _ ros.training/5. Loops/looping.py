@@ -15,3 +15,18 @@
 # range syntax:
 # range(start, step, stop)
 
+
+
+# iterable - means something we can iterate over
+# (iterable - list, dictionary, tuple, set, string)
+
+
+# if i don't want to use variable to tell people i don't care about that variable
+# for _ in range():
+
+
+
+# enumerate()
+
+# for index, char in enumerate("Hello"):
+#     print(index, char )

@@ -1,6 +1,6 @@
-'''
-Variables: Is ................
+# Variables: Is ................
 
+'''
 Naming Rules for Variables:
     1. Case senstive 
     2. Must start with letter or underscore
@@ -9,12 +9,13 @@ Naming Rules for Variables:
     5. You can't use reserved keyword in python
 '''
 
-# Main DataTypes 
 
+#####################################
 
 '''
+:Main Data Types:
 
-1. Numbers (int - float)
+    1. Numbers (int - float)
     int:        Represents whole numbers without a decimal point
     float:      Represents real numbers which can include fractions 
     
@@ -56,27 +57,5 @@ Naming Rules for Variables:
     unordered collection which is unordered, changeable and indexed. 
     (No duplicate items <key-value>)
 
+
 '''
-
-
-# How to create an variable 
-a = 3
-# or
-a, b, c = 1, 2, 3
-
-
-# Expression and Statements 
-# statement is entire line of code 
-# expression is part of code which produces a value 
-
-
-
-
-# augmented assignment operator 
-
-some_value = 5
-# instead of
-# some_value = some_value + 5
-# do
-some_value += some_value
-

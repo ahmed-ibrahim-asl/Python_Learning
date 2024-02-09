@@ -1,17 +1,33 @@
+# [what is it ?]
 # Collection of different dataTypes. (There elements can be changed)
+# list are mutable
 
 # How to create one ?
 dataBase = ['Ahmed', 'Asl', 22]
 
-# How a list is ordered ? by index
 
-print(dataBase[0]) #output: Ahmed
-print(dataBase[1]) #output: Asl
-print(dataBase[2]) #output: 22
+print(dataBase[0])  # output: Ahmed
+print(dataBase[1])  # output: Asl
+print(dataBase[2])  # output: 22
 
 
-# Do you want to see the whole data base at once ?
+# [Do you want to see the whole data base at once ?]
 print(dataBase)
+
+
+# [list slicing]
+# list[start:stop:step] - return entire new list on it's own
+# list = ['1', '2', '3', '4']
+
+
+# [list unpacking]
+# a, b, c, *other = [1, 2, 3, 4,5, 6]
+
+# print(a)
+# print(b)
+# print(c)
+# print(other)
+
 
 '''
 Common-List Methods:
@@ -38,25 +54,3 @@ figure out difference between deep copy and shallow copy
 4. Additional Useful Methods
     https://www.w3schools.com/python/python_lists_methods.asp
 '''
-
-
-
-
-
-# list slicing 
-
-
-# list = ['1', '2', '3', '4']
-
-# list[start:stop:step] - return entire new list on it's own 
-# stop is not included always 
-# strings immutable and lists are mutable
-
-
-#list unpacking 
-# a, b, c, *other = [1, 2, 3, 4,5, 6]
-
-# print(a)
-# print(b)
-# print(c)
-# print(other)

@@ -1,0 +1,29 @@
+[ What is Programming ? ]
+    written instructions given to computer to perform an action these 
+    instructions has to be very specificbecause computers are not smart
+    as they seems.
+
+
+
+[ Difference between Programming and Coding ]
+Programming: The Process of analyzing problems and design solution 
+for these problems.
+
+
+[ Language Computers speaks ]
+Computers speaks 0s and 1s, since it so hard to write instructions 
+in this way. we have programming languages to solve that.
+
+
+[ Programming Language ]
+Think of them as Tool some of them can be used in multiple of things
+General Purpose Tool.
+
+
+[ Types of Programming Languages ]
+
+High-level programming languages:
+similar to English needs translator to be executed like python.
+
+Low-level programming languages:
+similar to Machine languages like assembly.

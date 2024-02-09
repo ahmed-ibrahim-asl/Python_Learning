@@ -32,4 +32,5 @@ owners_names = list( set(owners_names) )
 print(f"\nAfter Solution:\n{owners_names}")
 
 
-
+# set methodss 
+# https://www.w3schools.com/python/python_ref_set.asp

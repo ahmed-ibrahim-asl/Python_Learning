@@ -5,16 +5,17 @@ class person:
         self.height = height
 
 
-
 # class named student inheriting from class named person
 
 class student(person):
-    
+
     # can we also inherit (base, main, super) constructor
 
     def __init__(self, name, age, height, id):
         # person.__init__(name, age, height)
         # or
+
+        # super - refers to upperClass of student class
         super().__init__(name, age, height)
 
         self.id = id
@@ -26,7 +27,3 @@ class student(person):
 ahmed = student("ahmed", 22, 177, 99999)
 
 print(ahmed.sayId())
-
-
-
-
