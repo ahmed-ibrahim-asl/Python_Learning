@@ -4,6 +4,7 @@
 # Arguments: Arguments: Arguments are the actual values that are passed to the function when it is called.
 
 
+
 # [How to create function?] [syntax for functions in python]
 
 
@@ -43,3 +44,8 @@ global
 l 
 nonlocal - refers to not global variable and not global variable
 '''
+
+
+# you can write documentation for functions using doc string and print it 
+# using [print(func.__doc__)]
+
