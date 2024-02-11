@@ -1,7 +1,7 @@
 # [if/else/elif] - used to guide interpreter what to do based result of certain logical
 #                  conditions 
 
-# [logical operators]
+# [comparson operators]
 #   ==, !=, >, <, <=, >=
 
 

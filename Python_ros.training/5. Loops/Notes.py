@@ -1,7 +1,7 @@
 # Looping in Python is a fundaemntal concept used to execute a block of code
-# repeatly under certain conditions. 
+# repeatly under certain conditions.
 
-# In python we have looping statments like 
+# In python we have looping statments like
 
 # for-loops:   iterate over a sequence (list, tuple, dictionary, set, string)
 # while-loops: execute a block of code as long as a condition is true
@@ -13,8 +13,7 @@
 
 
 # range syntax:
-# range(start, step, stop)
-
+# range(start, stop, step)
 
 
 # iterable - means something we can iterate over
@@ -23,8 +22,6 @@
 
 # if i don't want to use variable to tell people i don't care about that variable
 # for _ in range():
-
-
 
 
 # [[ Do you know enumerate() ?]]

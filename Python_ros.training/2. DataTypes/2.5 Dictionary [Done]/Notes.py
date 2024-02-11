@@ -19,7 +19,6 @@ print(f"First student Id {students.values()[0]}")
 print(f"Second student Id {students.values()[0]}")
 
 
-
 # notice dictionary keys are immutable (can't be changed)
 
 # Methods Extra Reference

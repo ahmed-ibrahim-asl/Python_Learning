@@ -38,8 +38,8 @@ Naming Rules for Variables:
     A data type with only two possible values 
     
     <Example>
-    is_easy = True
-    is_hard = False
+    is_easy = True  - 1
+    is_hard = False - 0
     
 
 4. lists
