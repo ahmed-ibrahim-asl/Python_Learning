@@ -1,6 +1,0 @@
-When we talk about a function in programming, it's like picturing a box with the function's name as its label. 
-We then examine what goes into the function as input and what comes out as output. After that,
-we delve deeper to understand the purpose and actions of the function - what it actually does with the input to produce the output.
-
-
-

@@ -5,7 +5,7 @@ import time
 
 ################################################################
 PhoneNumber_List = [
-"+2001069297069",
+    "",
 ]
 
 ################################################################
@@ -20,7 +20,7 @@ https://chat.whatsapp.com/GupwkoemWG2HrxqGF980f6
 for PhoneNumber in PhoneNumber_List:
     counter = 0
 
-    #location of addressbar
+    # location of addressbar
     pyautogui.click(493, 57)
 
     pyautogui.hotkey('ctrl', 'a')
@@ -30,19 +30,17 @@ for PhoneNumber in PhoneNumber_List:
     pyautogui.press('enter')
     time.sleep(3)
 
-
-    #go to click "Continue To chat"
+    # go to click "Continue To chat"
     pyautogui.click(808, 354)
 
     time.sleep(3)
-    #click on use WhatsApp Web
+    # click on use WhatsApp Web
     pyautogui.click(788, 427)
 
     time.sleep(25)
-    #Navigate to "Type a message"
+    # Navigate to "Type a message"
     pyautogui.click(751, 1362)
 
-    
     for line in Message.split('\n'):
         keyboard.write(line.strip())
         time.sleep(0.5)
@@ -51,5 +49,5 @@ for PhoneNumber in PhoneNumber_List:
         pyautogui.keyUp('shift')
 
     pyautogui.press('enter')
-    print(f"{counter} Done: "+ PhoneNumber)
-    counter+=1
+    print(f"{counter} Done: " + PhoneNumber)
+    counter += 1
